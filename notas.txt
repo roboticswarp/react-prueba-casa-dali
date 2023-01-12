@@ -1,0 +1,2 @@
+rfce para crear la funcio de una en App.jsx
+clg para console.log
